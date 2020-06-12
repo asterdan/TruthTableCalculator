@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1591714083 source:c:\users\aster\documents\dev-c++\excercises\main.cpp
+	<iostream>
+
+1591974912 source:c:\users\aster\documents\dev-c++\excercises\maingeneratetruthtable.cpp
+	<iostream>
+	<string>
+	<cmath>
+	<bitset>
+	<map>
+	<vector>
+	<algorithm>
+	<stack>
+	"BitOperation.h"
+	"InfixToPostfix.h"
+	"TruthTable.h"
+
+1591974606 c:\users\aster\documents\dev-c++\excercises\bitoperation.h
+	<iostream>
+	<string>
+	<cmath>
+	<bitset>
+	<map>
+	<vector>
+	<algorithm>
+	<stack>
+
+1591973876 source:c:\users\aster\documents\dev-c++\excercises\bitoperation.cpp
+	"BitOperation.h"
+
+1591974608 c:\users\aster\documents\dev-c++\excercises\infixtopostfix.h
+	<iostream>
+	<string>
+	<cmath>
+	<bitset>
+	<map>
+	<vector>
+	<algorithm>
+	<stack>
+
+1591974247 source:c:\users\aster\documents\dev-c++\excercises\infixtopostfix.cpp
+	"InfixToPostfix.h"
+
+1591974608 c:\users\aster\documents\dev-c++\excercises\truthtable.h
+	<iostream>
+	<string>
+	<cmath>
+	<bitset>
+	<map>
+	<vector>
+	<algorithm>
+	<stack>
+
+1591975010 source:c:\users\aster\documents\dev-c++\excercises\truthtable.cpp
+	"TruthTable.h"
+	"InfixToPostfix.h"
+	"BitOperation.h"
+
